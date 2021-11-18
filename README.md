@@ -2,15 +2,8 @@ lunar is a minimal black and blue color scheme.
 
 lunar is still in heavy development and for now there are no ports except styles for websites including youtube, github and wikipedia, expect ports for typora, vscode and more soon!
 
-Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| Role             |    Hex    |          RGB          |    IMG     |
+| Color             |    Hex    |          RGB          |    IMG     |
 | :--------------: | :-------: | :-------------------: | :--------: |
 | bg           | `#161616` |   `rgb(22, 22, 22)`   | ![#10142b](https://github.com/ComfyColors/Comfy/blob/dev/assets/images/colors/comfy0.png?raw=true)|
 | bg-light           | `#121212` |   `rgb(18, 18, 18)`   | ![#151b31](https://github.com/ComfyColors/Comfy/blob/dev/assets/images/colors/comfy1.png?raw=true)|
