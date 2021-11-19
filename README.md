@@ -2,6 +2,7 @@ lunar is a minimal black and blue color scheme.
 
 lunar is still in heavy development and for now there are no ports except styles for websites including youtube, github and wikipedia, expect ports for typora, vscode and more soon!
 
+<p align="center">A color palette inspired by <strong>Nyria's Discord Theme: <a href="https://github.com/NYRI4/Comfy/" target="_blank">Comfy</a></strong> and from the concept inspired by <strong><a href="https://nordtheme.com" target="_blank">Nord</a></strong>.</p><br>
 
 | Color             |    Hex    |          RGB          |    IMG     |
 | :--------------: | :-------: | :-------------------: | :--------: |
