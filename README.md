@@ -1,5 +1,7 @@
 <p align="center">lunar is a minimal black and blue color scheme inspired by<strong> space</strong> and the concept inspired by <strong><a href="https://nordtheme.com" target="_blank">Nord</a> and <a href="https://github.com/rose-pine" target="_blank">Rose Pine</a></strong>.</p><br>
+
 <p align="center">lunar is still in heavy development and for now there are no ports except styles for websites including youtube, github and wikipedia, expect ports for typora, vscode and more soon!</p>
+
 
 | Color             |    Hex    |          RGB          |    IMG     |
 | :--------------: | :-------: | :-------------------: | :--------: |
