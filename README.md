@@ -2,6 +2,8 @@
 
 <p align="center">lunar is still in heavy development and for now there are no ports except styles for websites including youtube, github and wikipedia, expect ports for typora, vscode and more soon!</p>
 
+<h1 align="center">Palette</h1>
+<img src="https://github.com/ComfyColors/Comfy/blob/dev/assets/images/colors/comfy-theme-palette.svg?raw=true" width="441" height="auto">
 
 | Color             |    Hex    |          RGB          |    IMG     |
 | :--------------: | :-------: | :-------------------: | :--------: |
