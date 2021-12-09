@@ -14,6 +14,7 @@
 | accent-light           | `#0284e8` |   `rgb(2, 132, 232)`| ![#0284e8](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/accent-light.png)|
 | accent-lighter           | `#02a3e8` |   `rgb(2, 163, 232)`| ![#02a3e](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/accent-lighter.png)|
 | accent-lightest           | `#02bbe8` |   `rgb(2, 187, 232)`| ![#02bbe8](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/accent-lightest.png)|
+| text-color           | `#f3f3f3` |   `rgb(243, 243, 243)`| ![#f3f3f3](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/text-color.png)|
 | red           | `#B10C0C` |   `rgb(177, 12, 12)`| ![#B10C0C](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/red.png)|
 | green           | `#05844A` |   `rgb(5, 132, 74)`| ![#05844A](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/green.png)|
 
