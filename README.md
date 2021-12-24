@@ -7,7 +7,7 @@
 | Color             |    Hex    |          RGB          |    IMG     |
 | :--------------: | :-------: | :-------------------: | :--------: |
 | bg           | `#161616` |   `rgb(22, 22, 22)`   | ![#161616](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/bg.png)|
-| bg-light           | `#121212` |   `rgb(18, 18, 18)`   | ![#121212](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/bg-light.png)|
+| bg-light           | `#202020` |   `rgb(32, 32, 32)`   | ![#202020](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/bg-light.png)|
 | bg-lighter           | `#252525` |   `rgb(37, 37, 37)`   | ![#252525](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/bg-lighter.png)|
 | bg-lightest           | `#303030` |   `rgb(48, 48, 48)`   | ![#303030](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/bg-lightest.png)|
 | accent           | `#3281ea` |   `rgb(50, 129, 234)` | ![#3281ea](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/img/accent.png)|
