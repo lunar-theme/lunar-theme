@@ -24,5 +24,7 @@
 | green           | `#05844A` |   `rgb(5, 132, 74)`| ![#05844A](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/green.png)|
 
 bg, bg-light, bg-lighter, bg-lightest - deep space
+
 accent, accent-light, accent-lighter, accent-lightest - ice
+
 red, green - sun
