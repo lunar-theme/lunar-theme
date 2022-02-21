@@ -9,7 +9,7 @@
 
 <h2 align="center">Palette</h1>
 
-| Color             |    Hex    |          RGB          |    assets     |
+| Color             |    Hex    |          RGB          |    Image     |
 | :--------------: | :-------: | :-------------------: | :--------: |
 | bg           | `#161616` |   `rgb(22, 22, 22)`   | ![#161616](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/bg.png)|
 | bg-light           | `#202020` |   `rgb(32, 32, 32)`   | ![#202020](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/bg-light.png)|
@@ -23,5 +23,6 @@
 | red           | `#B10C0C` |   `rgb(177, 12, 12)`| ![#B10C0C](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/red.png)|
 | green           | `#05844A` |   `rgb(5, 132, 74)`| ![#05844A](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/green.png)|
 
-
-
+bg, bg-light, bg-lighter, bg-lightest - deep space
+accent, accent-light, accent-lighter, accent-lightest - ice
+red, green - sun
