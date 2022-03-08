@@ -22,9 +22,3 @@
 | text           | `#f3f3f3` |   `rgb(243, 243, 243)`| ![#f3f3f3](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/text-color.png)|
 | red           | `#B10C0C` |   `rgb(177, 12, 12)`| ![#B10C0C](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/red.png)|
 | green           | `#05844A` |   `rgb(5, 132, 74)`| ![#05844A](https://raw.githubusercontent.com/lunar-theme/lunar-theme/main/assets/green.png)|
-
-bg, bg-light, bg-lighter, bg-lightest - **deep space**
-
-accent, accent-light, accent-lighter, accent-lightest - **ice**
-
-red, green - **sun**
